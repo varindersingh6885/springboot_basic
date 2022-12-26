@@ -1,4 +1,4 @@
-package com.nagarro.training.springmvc;
+package com.nagarro.training.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
